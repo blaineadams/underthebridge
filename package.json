@@ -1,0 +1,18 @@
+{
+  "name": "underthebridge",
+  "version": "1.0.0",
+  "description": "Web site for Under The Bridge Inc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nonprofit",
+    "html"
+  ],
+  "author": "Under The Bridge",
+  "license": "MIT",
+  "dependencies": {
+    "fancybox": "git+https://github.com/fancyapps/fancyBox.git"
+  }
+}
